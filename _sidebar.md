@@ -1,6 +1,6 @@
 # mogelmose.org
 
-* [HOME](./)
+* [Home](./)
 
 * [Documentation](./documentation/index.md)
   * [Darkplaces](./documentation/darkplaces/index.md)
