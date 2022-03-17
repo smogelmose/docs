@@ -35,4 +35,4 @@
 ##### ***Psychosphere***
 
 > "I get a bad taste in my mouth out here... aluminum... ash... like you can smell a psychosphere."
-> ###### ***Rust Cohle***
+> ##### ***Rust Cohle***
